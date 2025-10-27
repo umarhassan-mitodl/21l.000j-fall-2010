@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "f5b7e6a5-a9cd-bcba-399a-a45c1283abbb",
+  "instructors": {
+    "content": [
+      "fdcae15c-d0cd-54d9-94fa-bacc0caedcbc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "369680c5-6b05-afde-66fb-2d59430ac4cc",
+    "website": "21l-000j-writing-about-literature-fall-2010"
+  },
+  "course_title": "Writing About Literature",
+  "course_description": "Students, scholars, bloggers, reviewers, fans, and book-group members write about literature, but so do authors themselves. Through the ways they engage with their own texts and those of other artists, sampling, remixing, and rethinking texts and genres, writers reflect on and inspire questions about the creative process. We will examine Mary Shelley's reshaping of Milton's _Paradise Lost_, German fairy tales, tales of scientific discovery, and her husband's poems to make _Frankenstein_ (1818, 1831); Melville's redesign of a travel narrative into a Gothic novella in _Benito Cereno_ (1856); and Alison Bechdel's rewriting of Oscar Wilde's _The Importance of Being Earnest_ (1895) in her graphic novel _Fun Home_ (2006). Showings of film versions of some of these works will allow us to project forward in the remixing process as well.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "21W.734J",
+  "primary_course_number": "21L.000J",
+  "course_image_thumbnail": {
+    "content": "4270f545-adb7-fa45-9e31-2e5988aaef89",
+    "website": "21l-000j-writing-about-literature-fall-2010"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "c159df7f-0d79-4798-a7ee-a4cb983003ce",
+  "site_short_id": "21l.000j-fall-2010",
+  "site_url_path": "courses/21l-000j-writing-about-literature-fall-2010",
+  "title": "Course Metadata"
+}
